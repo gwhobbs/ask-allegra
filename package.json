@@ -1,0 +1,11 @@
+{
+  "name": "ask-allegra",
+  "version": "1.0.0",
+  "description": "Alexa skill to ask Allegra what's going on in New York",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grant Hobbs",
+  "license": "ISC"
+}
