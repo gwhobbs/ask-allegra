@@ -12,3 +12,7 @@ functions:
     handler: handler.getLatestNews
     events:
       - alexaSkill
+  readMore:
+    handler: handler.readMore
+    events:
+      - alexaSkill
