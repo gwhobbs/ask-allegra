@@ -6,6 +6,7 @@ provider:
   name: aws
   runtime: nodejs4.3
   profile: default
+  memorySize: 128
 
 functions:
   getLatestNews:
