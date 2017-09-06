@@ -12,4 +12,7 @@ functions:
   getLatestNews:
     handler: handler.getLatestNews
     events:
-      - alexaSkill
+      - http:
+          path: news
+          method: get
+          cors: true
